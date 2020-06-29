@@ -14,8 +14,8 @@ Este repositório foi criado com o objetivo de mostrar minhas soluções dos des
 
 ###  ✔ Introdução a Programação WEB 🚀
 
-- [Cálculo de IMC](https://github.com/camillacorreia/launchbase-bootcamp-desafios)
-- [Cálculo de aposentadoria](https://github.com/camillacorreia/launchbase-bootcamp-desafioss)
+- [Cálculo de IMC](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/1-primeiros-passos-com-JS/calculo-imc.js)
+- [Cálculo de aposentadoria](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/1-primeiros-passos-com-JS/calculo-aposentadoria.js)
 - [Construção e impressão de objetos](https://github.com/camillacorreia/launchbase-bootcamp-desafios)
 - [Vetores e objetos](https://github.com/camillacorreia/launchbase-bootcamp-desafios)
 - [Usuários e tecnologias](https://github.com/camillacorreia/launchbase-bootcamp-desafios)
