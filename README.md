@@ -18,9 +18,9 @@ Este repositório foi criado com o objetivo de mostrar minhas soluções dos des
 - [Cálculo de aposentadoria](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/1-primeiros-passos-com-JS/calculo-aposentadoria.js)
 - [Construção e impressão de objetos](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/2-lidando-com-objetos-e-vetores/construcao-e-impressao-de-objetos.js)
 - [Vetores e objetos](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/2-lidando-com-objetos-e-vetores/vetores-e-objetos.js)
-- [Usuários e tecnologias](https://github.com/camillacorreia/launchbase-bootcamp-desafios)
-- [Busca por tecnologia](https://github.com/camillacorreia/launchbase-bootcamp-desafios)
-- [Soma de despesas e receitas](https://github.com/camillacorreia/launchbase-bootcamp-desafios)
+- [Usuários e tecnologias](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/3-funcoes-e-estruturas-de-repeticao/usuarios-tecnologias.js)
+- [Busca por tecnologia](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/3-funcoes-e-estruturas-de-repeticao/busca-tecnologia.js)
+- [Soma de despesas e receitas](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/3-funcoes-e-estruturas-de-repeticao/soma-despesas-receitas.js)
 - [Operações bancárias](https://github.com/camillacorreia/launchbase-bootcamp-desafios)
 
 ---
