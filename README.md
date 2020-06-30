@@ -25,9 +25,9 @@ Este repositório foi criado com o objetivo de mostrar minhas soluções dos des
 
 ###  ✔ Iniciando no Front-End 🚀
 
-- [Primeiro HTML](https://github.com/camillacorreia)
-- [Página de descrição](https://github.com/camillacorreia)
-- [Página de cursos e iframe](https://github.com/camillacorreia)
+- [Primeiro HTML](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/iniciando-no-front-end/1-primeiro-html)
+- [Página de descrição](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/iniciando-no-front-end/2-pagina-de-descricao)
+- [Página de cursos e iframe](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/iniciando-no-front-end/3-pagina-de-cursos-e-iframe)
 
 ---
 
