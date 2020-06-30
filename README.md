@@ -23,6 +23,12 @@ Este repositório foi criado com o objetivo de mostrar minhas soluções dos des
 - [Soma de despesas e receitas](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/3-funcoes-e-estruturas-de-repeticao/soma-despesas-receitas.js)
 - [Operações bancárias](https://github.com/camillacorreia/launchbase-bootcamp-desafios)
 
+###  ✔ Iniciando no Front-End 🚀
+
+- [Primeiro HTML](https://github.com/camillacorreia)
+- [Página de descrição](https://github.com/camillacorreia)
+- [Página de cursos e iframe](https://github.com/camillacorreia)
+
 ---
 
 ## 📌 Objetivo
