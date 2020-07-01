@@ -114,7 +114,7 @@ footer a:hover {
 }
   
 .card {
-    height: 640px;
+    height: 600px;
     background: url('https://skylab.rocketseat.com.br/static/media/FeaturedCardBg.40a7d53e.png');
     background-color: rgba(46, 49, 71, 0.1);
     border-radius: 8px;
@@ -123,6 +123,7 @@ footer a:hover {
     align-items: center;
     cursor: pointer;
     transition: 300ms;
+    margin: 0 30px 20px 30px;
 }
   
 .card span {
@@ -213,7 +214,7 @@ footer a:hover {
     position: relative;
     background-color: #fff;
 }
-  
+
 .modal .close-modal {
     color: var(--color-gostack);
     position: absolute;
