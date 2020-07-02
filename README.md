@@ -33,7 +33,7 @@ Este repositório foi criado com o objetivo de mostrar minhas soluções dos des
 
 - [Primeiro servidor](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/iniciando-no-back-end/1-primeiro-servidor)
 - [Arquivos nunjucks e dados dinâmicos](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/iniciando-no-back-end/2-arquivos-nunjucks-e-dados-din%C3%A2micos)
-- [Página de descrição do curso](https://github.com/camillacorreia)
+- [Página de descrição do curso](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/iniciando-no-back-end/3-pagina-de-descricao-do-curso)
 
 ---
 
