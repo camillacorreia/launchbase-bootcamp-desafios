@@ -14,26 +14,26 @@ Este repositório foi criado com o objetivo de mostrar minhas soluções dos des
 
 ###  ✔ Introdução a Programação WEB 🚀
 
-- [Cálculo de IMC](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/1-primeiros-passos-com-JS/calculo-imc.js)
-- [Cálculo de aposentadoria](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/1-primeiros-passos-com-JS/calculo-aposentadoria.js)
-- [Construção e impressão de objetos](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/2-lidando-com-objetos-e-vetores/construcao-e-impressao-de-objetos.js)
-- [Vetores e objetos](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/2-lidando-com-objetos-e-vetores/vetores-e-objetos.js)
-- [Usuários e tecnologias](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/3-funcoes-e-estruturas-de-repeticao/usuarios-tecnologias.js)
-- [Busca por tecnologia](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/3-funcoes-e-estruturas-de-repeticao/busca-tecnologia.js)
-- [Soma de despesas e receitas](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/introducao-a-programacao-web/3-funcoes-e-estruturas-de-repeticao/soma-despesas-receitas.js)
-- [Operações bancárias](https://github.com/camillacorreia/launchbase-bootcamp-desafios)
+- [Cálculo de IMC](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/1-introducao-a-programacao-web/1-primeiros-passos-com-JS/calculo-imc.js)
+- [Cálculo de aposentadoria](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/1-introducao-a-programacao-web/1-primeiros-passos-com-JS/calculo-aposentadoria.js)
+- [Construção e impressão de objetos](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/1-introducao-a-programacao-web/2-lidando-com-objetos-e-vetores/construcao-e-impressao-de-objetos.js)
+- [Vetores e objetos](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/1-introducao-a-programacao-web/2-lidando-com-objetos-e-vetores/vetores-e-objetos.js)
+- [Usuários e tecnologias](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/1-introducao-a-programacao-web/3-funcoes-e-estruturas-de-repeticao/usuarios-tecnologias.js)
+- [Busca por tecnologia](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/1-introducao-a-programacao-web/3-funcoes-e-estruturas-de-repeticao/busca-tecnologia.js)
+- [Soma de despesas e receitas](https://github.com/camillacorreia/launchbase-bootcamp-desafios/blob/master/1-introducao-a-programacao-web/3-funcoes-e-estruturas-de-repeticao/soma-despesas-receitas.js)
+- [Operações bancárias](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/1-introducao-a-programacao-web/4-aplicacao-operacoes-bancarias)
 
 ###  ✔ Iniciando no Front-End 🚀
 
-- [Primeiro HTML](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/iniciando-no-front-end/1-primeiro-html)
-- [Página de descrição](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/iniciando-no-front-end/2-pagina-de-descricao)
-- [Página de cursos e iframe](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/iniciando-no-front-end/3-pagina-de-cursos-e-iframe)
+- [Primeiro HTML](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/2-iniciando-no-front-end/1-primeiro-html)
+- [Página de descrição](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/2-iniciando-no-front-end/2-pagina-de-descricao)
+- [Página de cursos e iframe](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/2-iniciando-no-front-end/3-pagina-de-cursos-e-iframe)
 
 ###  ✔ Iniciando no Back-End 🚀
 
-- [Primeiro servidor](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/iniciando-no-back-end/1-primeiro-servidor)
-- [Arquivos nunjucks e dados dinâmicos](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/iniciando-no-back-end/2-arquivos-nunjucks-e-dados-din%C3%A2micos)
-- [Página de descrição do curso](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/iniciando-no-back-end/3-pagina-de-descricao-do-curso)
+- [Primeiro servidor](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/3-iniciando-no-back-end/1-primeiro-servidor)
+- [Arquivos nunjucks e dados dinâmicos](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/3-iniciando-no-back-end/2-arquivos-nunjucks-e-dados-din%C3%A2micos)
+- [Página de descrição do curso](https://github.com/camillacorreia/launchbase-bootcamp-desafios/tree/master/3-iniciando-no-back-end/3-pagina-de-descricao-do-curso)
 
 ---
 
